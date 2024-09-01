@@ -1,1 +1,2 @@
-# Bitcoin Core Codebase Explanation
+# Introduction
+
