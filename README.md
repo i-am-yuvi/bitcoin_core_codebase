@@ -1,1 +1,1 @@
-# bitcoin_core_codebase
+# Bitcoin Core Codebase Explanation
